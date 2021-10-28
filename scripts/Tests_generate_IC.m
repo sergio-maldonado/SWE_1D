@@ -1,6 +1,9 @@
 % Select test case for SWE1D FV code
-% produces initial conditions to test inclusion of slope-related source
-% terms
+% -Produces initial conditions for several test cases
+% -It gives the option to run the solver from Matlab (but comment/uncomment
+% at the end of the code depending on whether you use MacOS or Windows)
+%
+% Sergio Maldonado
 
 clear variables
 clc
