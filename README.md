@@ -6,10 +6,10 @@ The code is based on the HLL solver, as presented in Toro, E.F. (2001) <em>Shock
 Matlab scripts are provided for setting up and visualising simulations.
 
 <p align="center">
-    <img src="https://github.com/sergio-maldonado/SWE_1D/blob/main/images/dambreak.gif" width="600" height="400" alt="dam break"/>
+    <img src="https://github.com/sergio-maldonado/SWE_1D/blob/main/images/dam_ramp.gif" width="600" height="400" alt="dam break"/>
 </p>
 <p align="center">
-    Simulation of a dam break.
+    Simulation of a dam break over a triangular obstacle.
 </p>
 
 # Installation
@@ -28,4 +28,8 @@ The following installation instructions are aimed at Civil Engineering undergrad
 
 5. Open the Matlab file (in the folder <b>scripts</b>) called <b>Tests_generate_IC.m</b>. What to do next should be self-explanatory (make sure you read the comments carefully). Choose any test and run the script. <b>NOTE:</b> If you activate the option to run automatically the SWE solver (from Matlab), go to the end of the script and comment/uncomment depending on whether you are using MacOS or Windows.
 
-6. Visualise the results with the code <b>view_results.m</b> (make sure you change the path accordingly).
+6. Visualise the results with the code <b>view_results.m</b> (make sure you change the path accordingly). The following, for exmaple, corresponds to Test 0 (a typical dam break):
+
+<p align="center">
+    <img src="https://github.com/sergio-maldonado/SWE_1D/blob/main/images/dambreak.gif" width="600" height="400" alt="dam break"/>
+</p>
