@@ -5,7 +5,12 @@ The code is based on the HLL solver, as presented in Toro, E.F. (2001) <em>Shock
 
 Matlab scripts are provided for setting up and visualising simulations.
 
-[IMAGES HERE]
+<p align="center">
+    <img src="https://github.com/sergio-maldonado/SWE_1D/blob/main/images/dambreak.gif" width="600" height="400" alt="dam break"/>
+</p>
+<p align="center">
+    Simulation of a dam break.
+</p>
 
 # Installation
 
